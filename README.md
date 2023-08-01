@@ -41,6 +41,6 @@ This repository contains the following scripts:
 
 1. `offset_fuzzing.py`: This script demonstrates how to fuzz the offset to find the correct buffer size to overwrite the EIP.
 
-2. `bad_character_identification.py`: This script demonstrates how to identify bad characters that cannot be used in the payload.
+2. `BadCharsDiscover.py`: This script demonstrates how to identify bad characters that cannot be used in the payload.
 
 3. `remote_code_execution.py`: This script demonstrates the final exploit that triggers the buffer overflow and achieves remote code execution.

@@ -43,4 +43,4 @@ This repository contains the following scripts:
 
 2. `BadCharsDiscover.py`: This script demonstrates how to identify bad characters that cannot be used in the payload.
 
-3. `remote_code_execution.py`: This script demonstrates the final exploit that triggers the buffer overflow and achieves remote code execution.
+3. `Exploit.py`: This script demonstrates the final exploit that triggers the buffer overflow and achieves remote code execution.

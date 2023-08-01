@@ -39,7 +39,7 @@ sudo ./crossfire
 
 This repository contains the following scripts:
 
-1. `offset_fuzzing.py`: This script demonstrates how to fuzz the offset to find the correct buffer size to overwrite the EIP.
+1. `Exploit.py`: This script demonstrates how to fuzz the offset to find the correct buffer size to overwrite the EIP.
 
 2. `BadCharsDiscover.py`: This script demonstrates how to identify bad characters that cannot be used in the payload.
 
